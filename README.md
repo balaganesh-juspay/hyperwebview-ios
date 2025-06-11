@@ -1,2 +1,2 @@
 # hyperwebview-ios
-Swift package manager version of HyperWebView
+SDK to attach a javascript bridge object in WKWebView to access native functionalities.
